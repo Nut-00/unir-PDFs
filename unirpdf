@@ -3,7 +3,6 @@
 ├── app.py                  <- Backend (tu servidor con Stripe)
 ├── requirements.txt        <- Lista de dependencias de Python
 ├── .gitignore              <- Ignora archivos como .env (si usás Git)
-├── .env                    <- Contiene tu clave secreta de Stripe (¡no lo subas si es público!)
 │
 ├── index.html              <- Tu página principal
 ├── success.html            <- Página de éxito después del pago
